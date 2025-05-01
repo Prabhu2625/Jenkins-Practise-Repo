@@ -20,8 +20,12 @@ public class BasicRunFromSelenium {
 		driver.findElement(By.id("password")).sendKeys("Leaf$123");
 		driver.findElement(By.id("Login")).click();
 		
-		//CTRL+A
+	
 		act.keyDown(Keys.CONTROL).sendKeys("A").keyUp(Keys.CONTROL).perform();
+		
+		//CTRL+V
+		act.keyDown(Keys.CONTROL).sendKeys("V").keyUp(Keys.CONTROL).perform();
+
 		
 		driver.quit();
 	
