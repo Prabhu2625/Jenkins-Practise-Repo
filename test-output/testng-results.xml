@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-11T10:58:12 IST" name="Default suite" finished-at="2025-03-11T10:58:30 IST" duration-ms="17847">
+  <suite started-at="2025-05-01T13:43:33 IST" name="Suite" finished-at="2025-05-01T13:43:51 IST" duration-ms="17929">
     <groups>
     </groups>
-    <test started-at="2025-03-11T10:58:12 IST" name="Default test" finished-at="2025-03-11T10:58:30 IST" duration-ms="17847">
+    <test started-at="2025-05-01T13:43:33 IST" name="Test" finished-at="2025-05-01T13:43:51 IST" duration-ms="17929">
       <class name="jenkinsDay1.BasicRunFromSelenium">
-        <test-method signature="login()[pri:0, instance:jenkinsDay1.BasicRunFromSelenium@c730b35]" started-at="2025-03-11T10:58:12 IST" name="login" finished-at="2025-03-11T10:58:30 IST" duration-ms="17771" status="PASS">
+        <test-method signature="login()[pri:0, instance:jenkinsDay1.BasicRunFromSelenium@515c6049]" started-at="2025-05-01T13:43:33 IST" name="login" finished-at="2025-05-01T13:43:51 IST" duration-ms="17857" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
       </class> <!-- jenkinsDay1.BasicRunFromSelenium -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
